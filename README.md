@@ -42,12 +42,12 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
 ##LINKS
+
 SOLUTION URL:
  https://github.com/Harshitaa456/qr-code-component1.git
 LIVE SITE URL:
 https://harshita-qr-code.netlify.app/
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
 ## Create a custom `README.md`
 
